@@ -1,8 +1,9 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/vehicles/show",
-    "pages/stories/index"
+    "pages/stories/index",
+    "pages/stories/show",
+    "pages/vehicles/show"
   ],
   "window": {
     "navigationBarTitleText":"乐可汽车",
